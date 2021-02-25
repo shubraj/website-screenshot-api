@@ -1,3 +1,3 @@
 # website-screenshot-api
 ## API ENDPOINT
-https://api.shubraj.cf/screenshot/
+https://api.shubraj.com/screenshot/
